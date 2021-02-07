@@ -10,5 +10,5 @@ A tutorial to build simple standalone Java application with Maven.
 # How to use
 Run from Terminal
 ```bash
-mvn compile exec:java -Dexec.mainClass="App"   -Dexec.args="5200461"
+mvn compile exec:java -Dexec.mainClass="App"   -Dexec.args="<ZIPCODE>"
 ```
